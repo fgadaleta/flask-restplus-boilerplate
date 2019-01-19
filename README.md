@@ -10,6 +10,13 @@
 
     To run all commands at once : make all
 
+### Getting Started 
+
+    python manage.py db init
+    
+    python manage.py db migrate
+    
+    python manage.py db upgrade
 
 ### Viewing the app ###
 
